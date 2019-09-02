@@ -1,3 +1,8 @@
+## Multi-channel versus quaternion orthogonal rotation invariant moments for color image representation
+## Abstract
+Orthogonal rotation invariant moments (ORIMs) have been used in many pattern recognition and image processing applications in the last three decades. Most of the applications relate to monochrome and gray-scale images. Recently, the theory of image moments for gray-scale images has been extended to color images using quaternion moments to explore the benefit of color information while representing the color images by moments. In this paper, we propose multi-channel ORIMs (MORIMs) invariants for color images and compare their performance with the existing quaternion moments, called quaternion orthogonal rotation invariant moments (QORIMs). The theoretical and experimental analysis demonstrates the superiority of the proposed MORIMs over the QORIMs invariants in the color image recognition task. The experiments are conducted by considering Zernike moments (ZMs) and quaternion ZMs (QZMs) as the representatives of MORIMs and QORIMs, respectively.
+[DOI](https://doi.org/10.1016/j.dsp.2018.04.001)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JaspreetSinghMaan/Reserach-Articles/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
